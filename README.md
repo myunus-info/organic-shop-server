@@ -1,7 +1,7 @@
 My website link: https://organic-shop-bd.web.app/
 
 Key features of my website:
-1. Responsive
+1. Responsive across devices
 2. JWT authentication
 3. Connected to MongoDB
 4. Implemented basic CRUD
